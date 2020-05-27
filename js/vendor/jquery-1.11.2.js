@@ -61,7 +61,8 @@ var hasOwn = class2type.hasOwnProperty;
 
 var support = {};
 
-var support2 = 'value';
+var support2 = 'value2';
+var support3 = 'value3';
 
 
 var
